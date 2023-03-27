@@ -6,7 +6,7 @@ It started as a curiosity that i explored in University and that turned later in
 career.
 
 Software is growing in importance in my life and the life of many people, because it has the
-power of bringing us a lot of useful innovations and enhancments to our lifes.
+power of bringing us a lot of useful innovations and enhancements to our lifes.
 
 I want to keep improving my knowledge in this field and building great software.
 
